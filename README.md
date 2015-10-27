@@ -1,4 +1,5 @@
 # pythonLearning
-:v 
-aprendizaje de piton xD desde cero 
-update 
+:v
+aprendizaje de piton xD desde cero
+update
+update2
